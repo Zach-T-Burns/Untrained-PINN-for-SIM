@@ -9,10 +9,14 @@ This code is based off our publication currently available as a preprint on ArXi
 ## Citation
 If you use this work for your research please cite:
 ```
-@article{burns2022untrained,
+@article{burns2023untrained,
   title={Untrained, physics-informed neural networks for structured illumination microscopy},
   author={Burns, Zachary and Liu, Zhaowei},
-  journal={arXiv preprint arXiv:2207.07705},
-  year={2022}
+  journal={Optics Express},
+  volume={31},
+  number={5},
+  pages={8714--8724},
+  year={2023},
+  publisher={Optica Publishing Group}
 }
 ```
