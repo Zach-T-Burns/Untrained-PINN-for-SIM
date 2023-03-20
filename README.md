@@ -1,10 +1,11 @@
 # Untrained-PINN-for-SIM
-Untrained, physics-informed neural network for SIM image reconstruction
 
-This repo contains demonstration Jupyter notebooks and data for reconstructing SIM images using an untrained physics-informed neural network (PINN).
+## Paper
+[Untrained, Physics-Informed Neural Networks for Structured Illumination Microscopy](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-5-8714&id=526758)
+*Zachary Burns<sup>1<sup>, Zhaowei Liu<sup>1,2,3,4<sup>*
 
-This code is based off our publication currently available as a preprint on ArXiv:
-[Untrained, Physics-Informed Neural Networks for Structured Illumination Microscopy](https://arxiv.org/abs/2207.07705)
+
+
 
 ## Citation
 If you use this work for your research please cite:
